@@ -1,6 +1,6 @@
 Live Demo at https: https://mohammed-saeed111.github.io/JavaScript_Calculator/
      
-![preview img](/calculator.png)
+![preview img](/claculator.png)
 <hr>
 📟 Calculator Web Application
 
