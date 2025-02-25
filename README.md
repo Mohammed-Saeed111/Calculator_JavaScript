@@ -1,4 +1,4 @@
-Live Demo at https: https://mohammed-saeed111.github.io/JavaScript_Calculator/
+Live Demo at https:  https://mohammed-saeed111.github.io/Calculator_JavaScript/
      
 ![preview img](/claculator.png)
 <hr>
